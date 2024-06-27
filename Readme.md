@@ -3,13 +3,21 @@
 ## 运行环境
 
 python==3.8.19
+
 pytorch==1.10.0
+
 torchvision==0.11.0
+
 torchaudio==0.10.0
+
 torchtext==0.11.0
+
 x-transformers==0.15.0
+
 transformers==4.35.2
+
 librosa==0.10.2
+
 scipy==1.9.3
 
 ## 文件结构
